@@ -1,0 +1,28 @@
+.heading{
+    margin: 0;
+    top: 0;
+    width: 100%;
+    font-size: 16px;
+}
+
+input{
+    text-align: center;
+    width: 20%;
+}
+
+.note{
+    color: black;
+}
+
+.start{
+    width: 10%;
+}
+
+.i{
+    margin-right: 100px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px solid white;
+}
